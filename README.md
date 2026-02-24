@@ -33,5 +33,5 @@ Client → Nginx → Gunicorn → Flask App → PostgreSQL
 ## Clone the repository
 
 ```bash
-git clone <your-repo-link>
+git clone https://github.com/soumyashree2311/secure-crud.git
 cd secure-crud
